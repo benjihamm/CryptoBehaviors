@@ -1,0 +1,7 @@
+ 1. Block reward
+- if the block number ends with the number 7 mint double the amount of the reward to the user
+2. Time stamp
+- If the timestamp of the block is within 12:00 am and 12:02 am mint 0.5 of the reward to the user
+3. Difficulty
+- If the difficulty is more than 15 decrease the total gas amount by a third
+- If the difficulty is less than 15 increase the total gas amount by 50% 
